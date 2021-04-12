@@ -53,3 +53,37 @@ header {
 }
 
 /* header end */
+
+
+/* main start */
+
+.moxrbe{
+  min-height: 100vh;
+  background: gold;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.moxrbe__content{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.moxrbe__title{
+  font-size: 90px;
+  color: #000;
+  font-family: sans-serif;
+  text-transform: uppercase;
+}
+
+.moxrbe__txt {
+  font-size: 80px;
+  color: #000;
+  font-family: sans-serif;
+  text-transform: uppercase;
+}
+
+
+/* main end */
